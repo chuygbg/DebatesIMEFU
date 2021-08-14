@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DebatesIMEFU/static/css/main.a617e044.chunk.css",
+    "main.js": "/DebatesIMEFU/static/js/main.f7137dd8.chunk.js",
+    "main.js.map": "/DebatesIMEFU/static/js/main.f7137dd8.chunk.js.map",
+    "runtime-main.js": "/DebatesIMEFU/static/js/runtime-main.4a524430.js",
+    "runtime-main.js.map": "/DebatesIMEFU/static/js/runtime-main.4a524430.js.map",
+    "static/js/2.17f65d52.chunk.js": "/DebatesIMEFU/static/js/2.17f65d52.chunk.js",
+    "static/js/2.17f65d52.chunk.js.map": "/DebatesIMEFU/static/js/2.17f65d52.chunk.js.map",
+    "static/js/3.68a9d6fd.chunk.js": "/DebatesIMEFU/static/js/3.68a9d6fd.chunk.js",
+    "static/js/3.68a9d6fd.chunk.js.map": "/DebatesIMEFU/static/js/3.68a9d6fd.chunk.js.map",
+    "index.html": "/DebatesIMEFU/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/DebatesIMEFU/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.17f65d52.chunk.js.LICENSE.txt": "/DebatesIMEFU/static/js/2.17f65d52.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/DebatesIMEFU/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a524430.js",
+    "static/js/2.17f65d52.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f7137dd8.chunk.js"
+  ]
+}
